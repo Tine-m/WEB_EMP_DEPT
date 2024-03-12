@@ -1,6 +1,5 @@
 package com.example.web_emp_dept;
 
-// Svarer til DEPT tabel i EMP_DEPT database
 public class Department {
     private int deptno;
     private String name;
