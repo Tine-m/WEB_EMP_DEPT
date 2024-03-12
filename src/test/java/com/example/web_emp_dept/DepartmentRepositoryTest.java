@@ -8,7 +8,8 @@ import java.sql.SQLException;
 
 import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
-class DepartmentRepositoryTest {
+class DepartmentRepositoryIT {
+
 
     /*
     application.properties i src/test/resources overrider
